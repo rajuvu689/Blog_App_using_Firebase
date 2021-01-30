@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "697408914374",
+    "project_id": "blog-app-bf658",
+    "storage_bucket": "blog-app-bf658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697408914374:android:28977cab251119fc2468c7",
+        "android_client_info": {
+          "package_name": "com.rtsoftworld.blog_app_using_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697408914374-9a8kd29l6g193b2b7jjbviochdpi263n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rtsoftworld.blog_app_using_firebase",
+            "certificate_hash": "018cc3e66f0f16f0b64bfdd7c63ee49dc381ec82"
+          }
+        },
+        {
+          "client_id": "697408914374-097cginqlgved0l816h4tlrto7hm3s0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvzCF_zy2YA-DHyc4C4UpBGT9ISfeX_iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697408914374-097cginqlgved0l816h4tlrto7hm3s0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
